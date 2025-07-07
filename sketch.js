@@ -9,7 +9,7 @@ function verificarResposta() {
 
     // Aguarde 5 segundos (5000 milissegundos) 
     setTimeout(function () {
-      window.location.href = 'time.html'; //
+      window.location.href = 'index2.html'; //
     }, 5000);
   } else {
     mensagem.innerHTML = 'Você errou! Tente novamente.';
